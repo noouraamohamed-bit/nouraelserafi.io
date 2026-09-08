@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://noouraamohamed-bit.github.io/nouraelserafi.io/sitemap.xml
